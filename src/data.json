@@ -1,0 +1,45 @@
+{
+  "revenue": {
+    "title": "Revenue",
+    "arrowIcon": "South",
+    "percentage": 10,
+    "percentageColor": "#da493d",
+    "icon": "up-right-arrow.png",
+    "iconBg": "#ed9334",
+    "total": 2.047,
+    "isMoney": true
+  },
+
+  "orders": {
+    "title": "Orders",
+    "arrowIcon": "North",
+    "percentage": 20,
+    "percentageColor": "#00cc99",
+    "icon": "cart.png",
+    "iconBg": "#54ca93",
+    "total": 356,
+    "isMoney": false
+  },
+
+  "dineIn": {
+    "title": "Dine in",
+    "arrowIcon": "North",
+    "percentage": 10,
+    "percentageColor": "#00cc99",
+    "icon": "restaurant.png",
+    "iconBg": "#eb4335",
+    "total": 220,
+    "isMoney": false
+  },
+
+  "takeAway": {
+    "title": "Take away",
+    "arrowIcon": "South",
+    "percentage": 5,
+    "percentageColor": "#da493d",
+    "icon": "juice.png",
+    "iconBg": "#fec346",
+    "total": 135,
+    "isMoney": false
+  }
+}
